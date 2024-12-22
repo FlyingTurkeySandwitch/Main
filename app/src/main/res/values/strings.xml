@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taskr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_task_info">Add Information About This Task</string>
+    <string name="welcome">WELCOME TO TASKR</string>
+    <string name="poster_description">As a poster you can get all your daily chores and tasks done
+        without compromising your health or time! By navigating to the plus at the bottom of the screen
+        you can post your first task. Sit back and relax until someone comes to take care of that task for you! </string>
+    <string name="helper_description">As a helper you will be able to earn money for helping others out
+        with important daily tasks! You can give back to the community and earn some quick cash at the
+        same time! Navigate to 2nd tab at the bottom to view available postings and get started! </string>
+    <string name="empty_description">There are two primary ways to use our app, as Helpers or as Posters.
+    Click on the buttons above to learn more!
+    </string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230584084712",
+    "project_id": "videotest-74917",
+    "storage_bucket": "videotest-74917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230584084712:android:50d19a19dd5ecca946415d",
+        "android_client_info": {
+          "package_name": "com.test1.videotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDYlGTcAyodEPrb0V0nlz1puyjvGvZBXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
